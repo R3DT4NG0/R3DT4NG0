@@ -1,1 +1,3 @@
-Currently working in GameMaker Studio
+Currently learning GameMaker Studio...
+
+Visit solo.to/redtangotv for links to content outside the scope of coding.
